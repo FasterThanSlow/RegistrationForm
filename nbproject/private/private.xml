@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/templates/error.tpl</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/models/UserDataBaseModel.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/templates/sign_in.tpl</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/en/login_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/js/bootstrap.js</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/ru/errors_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/models/DataBaseModel.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/en/reg_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/ru/profile_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/controllers/ProfilePageController.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/controllers/LoginPageController.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/en/profile_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/js/script.js</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/index.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/ru/login_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/templates/main.tpl</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/ru/reg_local.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/controllers/RegistrationPageController.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/controllers/PageController.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/controllers/ErrorPageController.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/templates/sign_up.tpl</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/functions.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/templates/profile.tpl</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/js/jQuery.js</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/models/User.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/css/bootstrap.min.css</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/config.php</file>
+            <file>file:/C:/xampp/htdocs/RegistrationForm/local/en/errors_local.php</file>
+        </group>
+    </open-files>
+</project-private>
